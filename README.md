@@ -1,7 +1,7 @@
 # GOLF IS HARD
 
 ## Power BI Dashboard
-Power BI
+Power BI -https://app.powerbi.com/view?r=eyJrIjoiNTQzNmRhNzMtODk3ZC00MDY2LWIwOTAtMDc4M2JhMzdmNjBiIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9&embedImagePlaceholder=true
 
 ## Motivation
 As weekend golfer I try to stay postive when I’m playing 18 holes because I know golf is hard. Golf will test your patience, require phyiscal precision and all while battling the  outdoor elements. I have noticed my fellow golfers tend to have too high of expectations for their rounds leaving them frustrated after their rounds. I wanted to look into the differences between pro golfers and amateur golfers. Amateurs tend to have too high of expecations and get should be proud of some shots and putts they make during their round when compared to the tour players.
